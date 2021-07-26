@@ -19,6 +19,4 @@ public class InputDto {
 
     private String factureNumber;
 
-
-
 }
